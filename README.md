@@ -1,5 +1,7 @@
-# Rownoleglobok
+# Rownoleglobok - obiektowo
 Zadanie rekrutacyjne nr 1 na praktyki do firmy NCDC (2018)
+
+Ten program różni się od programu "Rownoleglobok" ilością plików - zawiera 2 klasy w osobnych plikach. W założeniach zadania było "plik z programem powinien nazywać się Rownoleglobok.java", dlatego poprzedni program zawierał tylko jeden plik i w związku z tym tylko jedną klasę (Main)
 
 1. Równoległobok (maksymalnie 50 punktów)
 
